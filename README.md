@@ -17,11 +17,11 @@
 
 - [packer.nvim](https://github.com/wbthomason/packer.nvim)
   ```lua
-  use "jayden-chan/base46.nvim"
+  use "aoeivux/base46.nvim"
   ```
 - [vim-plug](https://github.com/junegunn/vim-plug)
   ```vim
-  Plug "jayden-chan/base46.nvim"
+  Plug "aoeivux/base46.nvim"
   ```
 - **Or Just Use Any Plugin Manager You Like**
 - **Or Just Use Any Method You Like**
